@@ -1,11 +1,5 @@
 # 基于SSH的企业人事管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**员工8** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于SSH的企业人事管理系统拥有管理员用户角色，可以对部门、员工和工资进行增删改查，功能简单，适合学习
@@ -46,12 +40,3 @@
 ![工资管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201459279.jpg)
 
 ![编辑员工工资](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206201500006.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**员工8**
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
